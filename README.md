@@ -1,1 +1,1 @@
-Rabbit MQ Producer Application written using Spring Boot Framework
+Rabbit MQ (Publisher + Subscriber) Application written using Spring Boot Framework.
